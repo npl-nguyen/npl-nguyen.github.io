@@ -8,4 +8,4 @@ redirect_from:
 ---
 **Nguyen, Ngoc Phuong Linh**
 
-PhD student in Economics. Interested in macroeconomics, firm dynamics, public policy, and arts.
+PhD student in Economics at Cornell University. My interests include macroeconomics, firm dynamics, public policy, and arts. My advisors are Professor Julieta Caunedo, Professor Ezra Oberfield, and Professor Nancy Chau.
