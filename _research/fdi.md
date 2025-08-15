@@ -1,9 +1,9 @@
 ---
-title: "Working paper: FDI and firm distribution"
+title: "Firm Learning and Log-Normal Distribution: Evidence from Foreign Direct Investment in Viet Nam (working paper)"
 collection: research
 type: "working paper"
 permalink: /research/fdi
-venue: "personal website"
+venue: "working paper"
 date: 2025-1-1
 location: "Ithaca, New York, US"
 ---
