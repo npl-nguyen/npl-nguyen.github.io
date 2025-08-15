@@ -1,6 +1,5 @@
 ---
-title: "Undergraduate thesis: Farm Size, Productivity, Mechanization and
-the Land Consolidation Program in Ha Tinh, Viet Nam"
+title: "Farm Size, Productivity, Mechanization and the Land Consolidation Program in Ha Tinh, Viet Nam (working paper)"
 collection: research
 type: "working paper"
 permalink: /research/agriculture
